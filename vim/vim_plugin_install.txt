@@ -1,0 +1,6 @@
+https://www.youtube.com/watch?v=tbWOlzj0tvY
+
+1. git clone https://github.com/gmarik/Vundle.vim ~/vimfiles/bundle/Vundle.vim
+2. copy _vimrc to ~/
+3. launch vim 
+4. run command :PluginInstall
